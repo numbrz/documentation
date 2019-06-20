@@ -1,0 +1,11 @@
+# basic options
+title: Numbrz Documentation
+author: Borys German
+email: borys@numbrz.com
+description: Numbrz Documentation
+twitter_username: jekyllrb
+github_username:  german-borys
+
+# Build settings
+markdown: kramdown
+theme: minima
